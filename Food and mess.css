@@ -1,0 +1,60 @@
+body::before {
+    display: block;
+    content: '';
+    height: 60px;
+}
+nav {
+    background-color: white;
+} 
+ button {
+    background-color: rgb(173, 18, 49);
+    color: white;
+    border: none;
+    font-weight: bolder;
+}
+h1 {
+color:rgb(49, 22, 2);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight: bolder;
+}
+h3 {
+    color:rgb(49, 22, 2);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+    }
+    
+.white {
+background-color: whitesmoke;
+font-weight: bolder;
+color: black;
+}
+i {
+    font-size: 0.8rem; 
+    font-weight: bolder;  
+    
+}
+.bi {
+   color:  rgb(173, 18, 49);
+   font-size: 20px;
+   
+
+}
+.number {
+    background-color:rgb(173, 18, 49);
+
+}
+col {
+    font-weight: bolder;
+}
+.strong {
+    color:rgb(49, 22, 2);
+    font-weight: 500;
+}
+.now {
+    color: rgb(173, 18, 49);
+    font-weight: 900;
+}
+.bread {
+    background-image: url("img/bread.jpg");
+    
+}
